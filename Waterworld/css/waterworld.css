@@ -17,14 +17,14 @@ h2 {
 
 h1	{
     padding: 20px;
-    padding-bottom: 0px;
+    padding-bottom: 0;
     margin: 0;
 }
 
 p {
     padding: 20px;
     text-align: justify;
-    padding-bottom: 0px;
+    padding-bottom: 0;
     margin: 0;
 }
 
@@ -67,6 +67,7 @@ nav a:hover {
     padding: 0;
     bottom: 0;
     width: 100%;
+    position: relative;
 }
 
 /* -- GENEREL STYLING -- */
@@ -151,34 +152,33 @@ span.navigationSpace {
 .fa-facebook-f {
     color: black;
     margin: 20px;
-    font-size: 18px;
+    font-size: 22px;
 
 }
 
 .fa-instagram{
     color: black;
     margin: 20px;
-    font-size: 18px;
+    font-size: 22px;
 }
 
 .fa-twitter {
     color: black;
     margin: 20px;
-    font-size: 18px;
+    font-size: 22px;
 }
 
 .fa-snapchat-ghost {
     color: black;
-    margin: 20px;
-    font-size: 18px;
+    margin: 22px;
+    font-size: 22px;
 }
 
 /* -- SOCIALE MEDIE KNAPPER -- */
 
 
 /* -- SCALING / RESPONSIVE -- */
-
-@media only screen and (max-width: 940px) {
+@media screen and (max-width: 940px){
     .burger-menu {
         display: inline-block;
         grid-column: 4;
@@ -230,38 +230,33 @@ span.navigationSpace {
     text-align: left;
     font-size: 22px;
     font-family: "Helvetica Neue LT Pro";
-}
-.headerText2{
-    text-align: center;
-    font-size: 22px;
-    font-family: Cinzel;
+    padding-left: 15%;
 }
 
 
 p{
-    text-align: left;
-    font-size: 14px;
-    width: 1000px;
+    font-size: 16px;
+    width: 67%;
     font-family: "Helvetica Now Display";
 }
 
-.line{
-    margin:auto;
-    background-color: black;
-    height: 3px;
-    width: 60%;
-}
 .text1{
     text-align: left;
-    font-size: 14px;
+    font-size: 16px;
     padding-bottom: 80px;
+    padding-left: 15%;
 }
 .sektion1 {
     width: 100vw;
     height: 100vh;
-    background-image: url("../img/hopla.png");
+    background-image: url(../img/waterworld.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: top;
 }
+
+
+
+
+
