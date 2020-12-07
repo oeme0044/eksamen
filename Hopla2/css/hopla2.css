@@ -1,0 +1,263 @@
+.nav-container {
+    width: 100%;
+    background: transparent;
+}
+
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+h2 {
+    padding: 20px;
+    padding-bottom: 0;
+    margin: 0;
+}
+
+h1	{
+    padding: 20px;
+    padding-bottom: 0px;
+    margin: 0;
+}
+
+p {
+    padding: 20px;
+    text-align: justify;
+    padding-bottom: 0px;
+    margin: 0;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+.right-menu a {
+    padding: 10px 0;
+    margin-left: 15px;
+    margin-right: 50px;
+    font-size: 14px;
+    font-weight: 300;
+    letter-spacing: 0.5px;
+}
+
+.logo {
+    font-size: 30px;
+    padding: 1rem;
+    font-weight: bold;
+    padding-left: 30px;
+}
+
+.billeder {
+    width: 100%
+}
+
+.burgerimg {
+    width: 60%
+}
+
+nav a:hover {
+    color: #48B6E4;
+}
+
+
+.footer {
+    position: fixed;
+    padding: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+/* -- GENEREL STYLING -- */
+
+
+
+
+/* -- MENU / NAVBAR -- */
+
+nav {
+    max-width: 1720px;
+    margin: 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.pics {
+    grid-column: 2;
+    padding: 1rem;
+    display: flex; justify-content:space-around;
+}
+
+.right-menu {
+    grid-column: 2/4;
+    align-self: center;
+    text-align: right;
+    word-wrap: normal;
+}
+
+.logo {
+    grid-column: 1;
+    align-self: center;
+    grid-row: 1;
+}
+
+#nav-toggle, .burger-menu {
+    display: none;
+}
+
+.burger-menu {
+    grid-column: 3;
+    align-self: center;
+    margin-right: 20px;
+}
+
+span.navigationSpace {
+    margin-left: 50px;
+}
+
+/* -- MENU / NAVBAR -- */
+
+
+
+/* -- GRID OBJEKTER -- */
+
+
+
+/* -- GRID OBJEKTER -- */
+
+
+
+/* -- SOCIALE MEDIE KNAPPER -- */
+
+.socialmedias {
+    text-align: center;
+    grid-column: 1/4;
+    grid-row: 4;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    width: 100%;
+}
+
+.fa {
+    padding: 50px;
+    font-size: 10px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+
+.fa-facebook-f {
+    color: black;
+    margin: 20px;
+    font-size: 18px;
+
+}
+
+.fa-instagram{
+    color: black;
+    margin: 20px;
+    font-size: 18px;
+}
+
+.fa-twitter {
+    color: black;
+    margin: 20px;
+    font-size: 18px;
+}
+
+.fa-snapchat-ghost {
+    color: black;
+    margin: 20px;
+    font-size: 18px;
+}
+
+/* -- SOCIALE MEDIE KNAPPER -- */
+
+
+/* -- SCALING / RESPONSIVE -- */
+
+@media only screen and (max-width: 940px) {
+    .burger-menu {
+        display: inline-block;
+        grid-column: 4;
+    }
+
+    .right-menu {
+        display: none;
+        grid-column: 1;
+        padding-bottom: 10px;
+        text-align: left;
+        margin-left: 16px;
+    }
+
+    span.navigationSpace2 {
+        margin-left: 50px;
+    }
+
+    #nav-toggle:checked ~ .right-menu {
+        display: grid;
+        grid-row: 2;
+    }
+
+    .billeder {
+        width: 100%;
+    }
+
+    .two {
+        grid-row: 3;
+        grid-column: 1/4;
+    }
+
+    .one {
+        grid-column: 1/4;
+        grid-row: 1;
+        width: 100%;
+    }
+
+    .three {
+        grid-column: 1/4;
+        grid-row: 2;
+    }
+
+    .logo {
+        font-size: 20px;
+        grid-column: 1/3;
+    }
+}
+.headerText1{
+    text-align: left;
+    font-size: 22px;
+    font-family: "Helvetica Neue LT Pro";
+}
+
+
+p{
+    text-align: left;
+    font-size: 14px;
+    width: 1000px;
+    font-family: "Helvetica Now Display";
+}
+
+.line{
+    margin:auto;
+    background-color: black;
+    height: 3px;
+    width: 60%;
+}
+.text1{
+    text-align: left;
+    font-size: 14px;
+    padding-bottom: 80px;
+}
+.sektion1 {
+    width: 100vw;
+    height: 100vh;
+    background-image: url("../img/Hopla2.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: top;
+}
+
