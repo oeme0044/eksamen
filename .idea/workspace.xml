@@ -10,9 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0b70b4d-0810-426a-983c-7f41c86cd035" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/css/forside.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/forside.css" afterDir="false" />
-    </list>
+    <list default="true" id="b0b70b4d-0810-426a-983c-7f41c86cd035" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +71,7 @@
       <workItem from="1607358479023" duration="2201000" />
       <workItem from="1607361021636" duration="31000" />
       <workItem from="1607361099323" duration="1189000" />
-      <workItem from="1607370380870" duration="1617000" />
+      <workItem from="1607370380870" duration="1733000" />
     </task>
     <task id="LOCAL-00001" summary="Der er tilføjet en footer med sociale medier logoer, billede af projektet, overskrifter, brødtekst, fonts,">
       <created>1607354717031</created>
@@ -215,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607372326727</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="padding ændret fra 80 til 100px">
+      <created>1607372573742</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1607372573742</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,17 +265,19 @@
     <MESSAGE value="workspace.xml" />
     <MESSAGE value="fontawesome cdn er blevet tilføjet" />
     <MESSAGE value="ændret plads på de forskellige bokse" />
-    <option name="LAST_COMMIT_MESSAGE" value="ændret plads på de forskellige bokse" />
+    <MESSAGE value="padding ændret fra 80" />
+    <MESSAGE value="padding ændret fra 80 til 100px" />
+    <option name="LAST_COMMIT_MESSAGE" value="padding ændret fra 80 til 100px" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607357442638">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1607357442638" />
-    <state x="168" y="12" key="CommitChangelistDialog2" timestamp="1607372326614">
+    <state x="168" y="12" key="CommitChangelistDialog2" timestamp="1607372573635">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="168" y="12" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1607372326614" />
+    <state x="168" y="12" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1607372573635" />
     <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1607358877439">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
