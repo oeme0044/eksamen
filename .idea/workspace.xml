@@ -10,22 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0b70b4d-0810-426a-983c-7f41c86cd035" name="Default Changelist" comment="">
+    <list default="true" id="b0b70b4d-0810-426a-983c-7f41c86cd035" name="Default Changelist" comment="Titlen på siden er blevet ændret">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/forside.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/forside.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/hopla.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/hopla2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/nyklan.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/waterworld.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/forside.html" beforeDir="false" afterPath="$PROJECT_DIR$/forside.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hopla.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hopla2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Hopla2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Nyklan.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/hopla.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/waterworld.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nyklan.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/waterworld.index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hopla2/hopla2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Hopla2/hopla2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +74,7 @@
       <workItem from="1607358479023" duration="2201000" />
       <workItem from="1607361021636" duration="31000" />
       <workItem from="1607361099323" duration="1189000" />
+      <workItem from="1607370380870" duration="1314000" />
     </task>
     <task id="LOCAL-00001" summary="Der er tilføjet en footer med sociale medier logoer, billede af projektet, overskrifter, brødtekst, fonts,">
       <created>1607354717031</created>
@@ -151,7 +139,56 @@
       <option name="project" value="LOCAL" />
       <updated>1607358951814</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="de forskellige filer er blevet tilføjet i forskellige mapper, så jeg har kontrol over mine ting">
+      <created>1607370462191</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1607370462191</updated>
+    </task>
+    <task id="LOCAL-00011" summary="de forskellige filer er blevet tilføjet i forskellige mapper, så jeg har kontrol over mine ting">
+      <created>1607370484211</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1607370484211</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Der er blevet ændret på billede størrelser, hvor jeg gik fra 50vh til 100vh">
+      <created>1607372096138</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1607372096138</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Der er blevet ændret på billede størrelser, hvor jeg gik fra 50vh til 100vh">
+      <created>1607372102697</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1607372102697</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Der er blevet ændret på billede størrelser, hvor jeg gik fra 50vh til 100vh">
+      <created>1607372113147</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1607372113147</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Der er blevet ændret på billede størrelser, hvor jeg gik fra 50vh til 100vh">
+      <created>1607372122762</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1607372122762</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Titlen på siden er blevet ændret">
+      <created>1607372142017</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1607372142017</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,6 +200,11 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
               <option name="COLUMN_WIDTH">
                 <map>
                   <entry key="2" value="93" />
@@ -185,17 +227,20 @@
     <MESSAGE value="andre filer." />
     <MESSAGE value="css fillen til waterworld siden er blevet tilføjet" />
     <MESSAGE value="position: relative er blevet tilføjet, så sm logoerne kan først ses når man scroller ned" />
-    <option name="LAST_COMMIT_MESSAGE" value="position: relative er blevet tilføjet, så sm logoerne kan først ses når man scroller ned" />
+    <MESSAGE value="de forskellige filer er blevet tilføjet i forskellige mapper, så jeg har kontrol over mine ting" />
+    <MESSAGE value="Der er blevet ændret på billede størrelser, hvor jeg gik fra 50vh til 100vh" />
+    <MESSAGE value="Titlen på siden er blevet ændret" />
+    <option name="LAST_COMMIT_MESSAGE" value="Titlen på siden er blevet ændret" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607357442638">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1607357442638" />
-    <state x="168" y="12" key="CommitChangelistDialog2" timestamp="1607358951700">
+    <state x="168" y="12" key="CommitChangelistDialog2" timestamp="1607372151956">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="168" y="12" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1607358951700" />
+    <state x="168" y="12" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1607372151956" />
     <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1607358877439">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
