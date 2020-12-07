@@ -10,13 +10,22 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0b70b4d-0810-426a-983c-7f41c86cd035" name="Default Changelist" comment="css fillen til waterworld siden er blevet tilføjet">
-      <change afterPath="$PROJECT_DIR$/css/waterworld.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forside.html" afterDir="false" />
+    <list default="true" id="b0b70b4d-0810-426a-983c-7f41c86cd035" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/forside.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/forside.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/hopla.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/hopla.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hopla.html" beforeDir="false" afterPath="$PROJECT_DIR$/hopla.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/hopla.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/hopla2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/nyklan.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/waterworld.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/forside.html" beforeDir="false" afterPath="$PROJECT_DIR$/forside.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hopla.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hopla2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Hopla2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Nyklan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/hopla.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/waterworld.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nyklan.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/waterworld.index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +84,9 @@
       <workItem from="1607356000088" duration="362000" />
       <workItem from="1607356647121" duration="479000" />
       <workItem from="1607357182520" duration="856000" />
-      <workItem from="1607358479023" duration="306000" />
+      <workItem from="1607358479023" duration="2201000" />
+      <workItem from="1607361021636" duration="31000" />
+      <workItem from="1607361099323" duration="1189000" />
     </task>
     <task id="LOCAL-00001" summary="Der er tilføjet en footer med sociale medier logoer, billede af projektet, overskrifter, brødtekst, fonts,">
       <created>1607354717031</created>
@@ -126,7 +137,21 @@
       <option name="project" value="LOCAL" />
       <updated>1607355124682</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="position: relative er blevet tilføjet, så sm logoerne kan først ses når man scroller ned">
+      <created>1607358927857</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1607358927857</updated>
+    </task>
+    <task id="LOCAL-00009" summary="position: relative er blevet tilføjet, så sm logoerne kan først ses når man scroller ned">
+      <created>1607358951814</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1607358951814</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,21 +184,22 @@
     <MESSAGE value="skabelon til forsiden  er blevet tilføjet, hvor der skal være en masse koder på" />
     <MESSAGE value="andre filer." />
     <MESSAGE value="css fillen til waterworld siden er blevet tilføjet" />
-    <option name="LAST_COMMIT_MESSAGE" value="css fillen til waterworld siden er blevet tilføjet" />
+    <MESSAGE value="position: relative er blevet tilføjet, så sm logoerne kan først ses når man scroller ned" />
+    <option name="LAST_COMMIT_MESSAGE" value="position: relative er blevet tilføjet, så sm logoerne kan først ses når man scroller ned" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607357442638">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1607357442638" />
-    <state x="168" y="12" key="CommitChangelistDialog2" timestamp="1607355353537">
+    <state x="168" y="12" key="CommitChangelistDialog2" timestamp="1607358951700">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="168" y="12" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1607355353537" />
-    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1607355235282">
-      <screen x="0" y="23" width="1440" height="812" />
+    <state x="168" y="12" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1607358951700" />
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1607358877439">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1607354930246" />
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1607358877438" />
     <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.23.1440.812@0.23.1440.812" timestamp="1607355235282" />
     <state x="518" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607357508631">
       <screen x="0" y="0" width="1440" height="900" />
