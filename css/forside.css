@@ -48,19 +48,19 @@
     transform: scale(1.05);
 }
 
-.xop-img-1 {background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)), url(../img/hopla.png);
+.xop-img-1 {background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)), url(../Hopla/image/hopla.png);
 }
 
 .xop-img-2 {
-    background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)), url(../img/Nyklan.png);
+    background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)), url(../Nyklan/img/Nyklan.png);
 }
 
 .xop-img-3 {
-    background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)), url(../img/waterworld.png);
+    background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)), url(../Waterworld/img/waterworld.png);
 }
 
 .xop-img-4 {
-    background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)), url(../img/Hopla2.png);
+    background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)), url(../Hopla2/img/Hopla2.png);
 }
 
 .xop-info {
