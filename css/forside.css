@@ -24,8 +24,8 @@
 }
 
 .xop-grid li {
-    width: 328px;
-    height: 328px;
+    width: 400px;
+    height: 400px;
     display: inline-block;
     margin: 20px;
 }
@@ -48,19 +48,19 @@
     transform: scale(1.05);
 }
 
-.xop-img-1 {background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)), url(../img/hoplabox.png);
+.xop-img-1 {background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)), url(../img/Hoplabox.png);
 }
 
 .xop-img-2 {
-    background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)), url(../img/123.png);
+    background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)), url(../img/Nyklanbox.png);
 }
 
 .xop-img-3 {
-    background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)), url(../img/hoplabox-kopi.png);
+    background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)), url(../img/Hopla2box.png);
 }
 
 .xop-img-4 {
-    background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)), url(../img/waterworldbox.png);
+    background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)), url(../img/Waterworldbox.png);
 }
 
 .xop-info {
