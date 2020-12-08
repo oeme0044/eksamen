@@ -1,7 +1,6 @@
 .xop-section {
     max-width:960px;
     margin:0 auto;
-    padding:6% 2%;
 }
 
 .xop-grid {
@@ -259,7 +258,7 @@ span.navigationSpace {
 
 .headerText1{
     text-align: left;
-    font-size: 22px;
+    font-size: 30px;
     font-family: "Helvetica Neue LT Pro";
     padding-left: 45%;
 }
@@ -276,10 +275,13 @@ p{
     width: 40%;
     font-family: "Helvetica Now Display";
     padding-left: 43%;
+    padding-bottom: 35px;
 }
 
+.headerText3{
+    text-align: center;
+    padding-top: 120px;
+    font-size: 30px;
+    font-family: "Helvetica Neue LT Pro";
 
-
-
-
-
+}
