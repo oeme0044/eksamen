@@ -257,7 +257,26 @@ span.navigationSpace {
 
 /* -- SOCIALE MEDIE KNAPPER -- */
 
+.headerText1{
+    text-align: left;
+    font-size: 22px;
+    font-family: "Helvetica Neue LT Pro";
+    padding-left: 45%;
+}
 
+p{
+    font-size: 16px;
+    width: 40%;
+    font-family: "Helvetica Now Display";
+    padding-left: 30%;
+}
+
+.text2{
+    font-size: 16px;
+    width: 40%;
+    font-family: "Helvetica Now Display";
+    padding-left: 43%;
+}
 
 
 
