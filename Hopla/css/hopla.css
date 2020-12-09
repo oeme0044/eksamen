@@ -1,4 +1,14 @@
 
+.main #link2{
+    margin-left: 15%;
+}
+#link2 a {
+    color: black;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+
+}
 .socialmedias {
     text-align: center;
     grid-column: 1/4;
@@ -111,7 +121,6 @@ p{
 .text1{
     text-align: left;
     font-size: 16px;
-    padding-bottom: 80px;
     padding-left: 15%;
 }
 .sektion1 {
@@ -139,7 +148,6 @@ nav a {
     font-weight: bold;
     padding-left: 30px;
     font-family: "Helvetica Neue LT Pro";
-
 }
 
 .footer {
