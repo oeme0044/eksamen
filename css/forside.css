@@ -45,9 +45,6 @@
     transform 0.3s ease-in-out;
 }
 
-.xop-box:hover {
-    transform: scale(1.05);
-}
 
 .xop-img-1 {background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)), url(../img/Hoplabox.png);
 }
@@ -210,9 +207,11 @@ span.navigationSpace {
     font-family: "Helvetica Neue LT Pro";
 }
 
-p{
+
+.text1{
     font-size: 16px;
     font-family: "Helvetica Now Display";
+    text-align: center;
 }
 
 .text2{
@@ -226,6 +225,27 @@ p{
     font-size: 30px;
     font-family: "Helvetica Neue LT Pro";
 }
+
+.headerText2{
+    text-align: center;
+    font-size: 30px;
+    font-family: "Helvetica Neue LT Pro";
+}
+
+
+.text3{
+    font-size: 16px;
+    font-family: "Helvetica Now Display";
+
+}
+
+.text4{
+    font-size: 16px;
+    font-family: "Helvetica Now Display";
+}
+
+
+
 
 .banner{
     width: 100%;
@@ -275,8 +295,15 @@ a{
     display: flex;
     justify-content: center;
 }
+.main2{
+    display: flex;
+    justify-content: center;
+}
 
 .sektion1{
+    width: 10%;
+}
+.sektion2{
     width: 10%;
 }
 
@@ -287,7 +314,12 @@ a{
     .text2{
         text-align: center;
     }
-
+    .sektion2{
+        width: 80%;
+    }
+    .text3{
+        text-align: center;
+    }
     .xop-grid li{
         max-width: 300px;
         height: 300px;
@@ -303,6 +335,9 @@ a{
     }
     .text2{
         text-align: center;
+    }
+    .sektion2{
+        width: 45%;
     }
 
     .xop-grid li{
