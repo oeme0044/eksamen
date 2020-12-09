@@ -9,9 +9,12 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Hopla/css/hopla.css" beforeDir="false" afterPath="$PROJECT_DIR$/Hopla/css/hopla.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Hopla/hopla.html" beforeDir="false" afterPath="$PROJECT_DIR$/Hopla/hopla.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/forside.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/forside.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forside.html" beforeDir="false" afterPath="$PROJECT_DIR$/forside.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/tekbas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hopla2/css/hopla2.css" beforeDir="false" afterPath="$PROJECT_DIR$/Hopla2/css/hopla2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hopla2/hopla2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Hopla2/hopla2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nyklan/css/nyklan.css" beforeDir="false" afterPath="$PROJECT_DIR$/Nyklan/css/nyklan.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nyklan/nyklan.html" beforeDir="false" afterPath="$PROJECT_DIR$/Nyklan/nyklan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Waterworld/css/waterworld.css" beforeDir="false" afterPath="$PROJECT_DIR$/Waterworld/css/waterworld.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Waterworld/waterworld.index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Waterworld/waterworld.index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,14 +78,7 @@
       <workItem from="1607361099323" duration="1189000" />
       <workItem from="1607370380870" duration="1733000" />
       <workItem from="1607385076365" duration="1690000" />
-      <workItem from="1607411663231" duration="24516000" />
-    </task>
-    <task id="LOCAL-00003" summary="Der er tilføjet en footer med sociale medier logoer, billede af projektet, overskrifter, brødtekst, fonts,">
-      <created>1607354844161</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1607354844161</updated>
+      <workItem from="1607411663231" duration="27841000" />
     </task>
     <task id="LOCAL-00004" summary="Billeder der skal bruges til de forskellige under sider.">
       <created>1607354889998</created>
@@ -420,7 +416,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607551740875</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Logo er blevet tilføjet">
+      <created>1607551769283</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1607551769283</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -451,7 +454,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Der er blevet ændret på billede størrelser, hvor jeg gik fra 50vh til 100vh" />
     <MESSAGE value="fontawesome cdn er blevet tilføjet" />
     <MESSAGE value="ændret plads på de forskellige bokse" />
     <MESSAGE value="padding ændret fra 80" />
@@ -476,17 +478,18 @@
     <MESSAGE value="hover (scala) er blevet fjernet på de 4 boxe" />
     <MESSAGE value="en ny p class er blevet tilføjet" />
     <MESSAGE value="Billede der skal bruges til om mig" />
-    <option name="LAST_COMMIT_MESSAGE" value="Billede der skal bruges til om mig" />
+    <MESSAGE value="Logo er blevet tilføjet" />
+    <option name="LAST_COMMIT_MESSAGE" value="Logo er blevet tilføjet" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607547077189">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1607547077189" />
-    <state x="168" y="23" width="1002" height="877" key="CommitChangelistDialog2" timestamp="1607551740740">
+    <state x="168" y="23" width="1002" height="877" key="CommitChangelistDialog2" timestamp="1607551769145">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="168" y="23" width="1002" height="877" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1607551740740" />
+    <state x="168" y="23" width="1002" height="877" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1607551769145" />
     <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1607386464471">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -496,10 +499,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="320" y="177" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1607509522252" />
-    <state x="518" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607500647438">
+    <state x="518" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607553666761">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="518" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1607500647438" />
+    <state x="518" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1607553666761" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1607500193220">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
