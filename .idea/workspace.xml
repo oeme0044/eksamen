@@ -7,8 +7,11 @@
   <component name="ChangeListManager">
     <list default="true" id="b0b70b4d-0810-426a-983c-7f41c86cd035" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hopla/css/hopla.css" beforeDir="false" afterPath="$PROJECT_DIR$/Hopla/css/hopla.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hopla/hopla.html" beforeDir="false" afterPath="$PROJECT_DIR$/Hopla/hopla.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/forside.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/forside.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/forside.html" beforeDir="false" afterPath="$PROJECT_DIR$/forside.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tekbas.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,21 +75,7 @@
       <workItem from="1607361099323" duration="1189000" />
       <workItem from="1607370380870" duration="1733000" />
       <workItem from="1607385076365" duration="1690000" />
-      <workItem from="1607411663231" duration="16065000" />
-    </task>
-    <task id="LOCAL-00001" summary="Der er tilføjet en footer med sociale medier logoer, billede af projektet, overskrifter, brødtekst, fonts,">
-      <created>1607354717031</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1607354717031</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Revert &quot;Der er tilføjet en footer med sociale medier logoer, billede af projektet, overskrifter, brødtekst, fonts,&quot;&#10;&#10;This reverts commit 213d2cb4">
-      <created>1607354811761</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1607354811761</updated>
+      <workItem from="1607411663231" duration="24516000" />
     </task>
     <task id="LOCAL-00003" summary="Der er tilføjet en footer med sociale medier logoer, billede af projektet, overskrifter, brødtekst, fonts,">
       <created>1607354844161</created>
@@ -403,7 +392,35 @@
       <option name="project" value="LOCAL" />
       <updated>1607507124188</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="workspace.xml">
+      <created>1607509482288</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1607509482288</updated>
+    </task>
+    <task id="LOCAL-00049" summary="hover (scala) er blevet fjernet på de 4 boxe">
+      <created>1607509520171</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1607509520171</updated>
+    </task>
+    <task id="LOCAL-00050" summary="en ny p class er blevet tilføjet">
+      <created>1607509559001</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1607509559002</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Billede der skal bruges til om mig">
+      <created>1607551740875</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1607551740875</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -434,10 +451,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="andre filer." />
-    <MESSAGE value="css fillen til waterworld siden er blevet tilføjet" />
-    <MESSAGE value="position: relative er blevet tilføjet, så sm logoerne kan først ses når man scroller ned" />
-    <MESSAGE value="de forskellige filer er blevet tilføjet i forskellige mapper, så jeg har kontrol over mine ting" />
     <MESSAGE value="Der er blevet ændret på billede størrelser, hvor jeg gik fra 50vh til 100vh" />
     <MESSAGE value="fontawesome cdn er blevet tilføjet" />
     <MESSAGE value="ændret plads på de forskellige bokse" />
@@ -459,22 +472,30 @@
     <MESSAGE value="Video til forsiden er blevet tilføjet" />
     <MESSAGE value="designet til videoen er blevet tilføjet" />
     <MESSAGE value="workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="workspace.xml" />
+    <MESSAGE value="hover (scala) er blevet fjernet på de f" />
+    <MESSAGE value="hover (scala) er blevet fjernet på de 4 boxe" />
+    <MESSAGE value="en ny p class er blevet tilføjet" />
+    <MESSAGE value="Billede der skal bruges til om mig" />
+    <option name="LAST_COMMIT_MESSAGE" value="Billede der skal bruges til om mig" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607509299284">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607547077189">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1607509299284" />
-    <state x="168" y="23" width="1002" height="877" key="CommitChangelistDialog2" timestamp="1607507124117">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1607547077189" />
+    <state x="168" y="23" width="1002" height="877" key="CommitChangelistDialog2" timestamp="1607551740740">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="168" y="23" width="1002" height="877" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1607507124117" />
+    <state x="168" y="23" width="1002" height="877" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1607551740740" />
     <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1607386464471">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1607386464471" />
     <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.23.1440.812@0.23.1440.812" timestamp="1607355235282" />
+    <state x="320" y="177" key="Vcs.Push.Dialog.v2" timestamp="1607509522252">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="177" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1607509522252" />
     <state x="518" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607500647438">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

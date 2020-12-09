@@ -60,6 +60,9 @@
 .xop-img-4 {
     background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)), url(../img/Waterworldbox.png);
 }
+.xop-img-5{
+    background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)), url(../img/T.png);
+}
 
 .xop-info {
     position: absolute;
@@ -84,7 +87,8 @@
 
 body {
     margin: 0;
-    font-family: 'Poppins', sans-serif;
+    padding: 0;
+    font-family: "Helvetica Now Display";
 }
 
 .footer {
@@ -96,7 +100,6 @@ body {
 }
 
 /* -- GENEREL STYLING -- */
-
 
 
 
@@ -279,6 +282,7 @@ span.navigationSpace {
     font-size: 75px;
     font-family: "Helvetica Neue LT Pro";
     color: black;
+    text-align: center;
 }
 .banner .tekst p{
     font-size: 35px;
@@ -307,6 +311,7 @@ a{
     width: 10%;
 }
 
+
 @media screen and (min-width: 375px){
     .sektion1{
         width: 80%;
@@ -325,7 +330,25 @@ a{
         height: 300px;
     }
 }
+@media screen and (min-width: 768px ) {
+    .sektion1{
+        width: 40%;
+    }
+    .headerText1{
+        text-align: center;
+    }
+    .text2{
+        text-align: center;
+    }
+    .sektion2{
+        width: 45%;
+    }
 
+    .xop-grid li{
+        max-width: 328px;
+        height: 328px;
+    }
+}
 @media screen and (min-width: 1200px ) {
     .sektion1{
         width: 40%;
@@ -344,5 +367,4 @@ a{
         max-width: 400px;
         height: 400px;
     }
-
 }
