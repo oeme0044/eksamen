@@ -5,17 +5,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0b70b4d-0810-426a-983c-7f41c86cd035" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hopla/css/hopla.css" beforeDir="false" afterPath="$PROJECT_DIR$/Hopla/css/hopla.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hopla/hopla.html" beforeDir="false" afterPath="$PROJECT_DIR$/Hopla/hopla.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hopla2/css/hopla2.css" beforeDir="false" afterPath="$PROJECT_DIR$/Hopla2/css/hopla2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hopla2/hopla2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Hopla2/hopla2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nyklan/css/nyklan.css" beforeDir="false" afterPath="$PROJECT_DIR$/Nyklan/css/nyklan.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nyklan/nyklan.html" beforeDir="false" afterPath="$PROJECT_DIR$/Nyklan/nyklan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Waterworld/css/waterworld.css" beforeDir="false" afterPath="$PROJECT_DIR$/Waterworld/css/waterworld.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Waterworld/waterworld.index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Waterworld/waterworld.index.html" afterDir="false" />
-    </list>
+    <list default="true" id="b0b70b4d-0810-426a-983c-7f41c86cd035" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,21 +68,7 @@
       <workItem from="1607361099323" duration="1189000" />
       <workItem from="1607370380870" duration="1733000" />
       <workItem from="1607385076365" duration="1690000" />
-      <workItem from="1607411663231" duration="27841000" />
-    </task>
-    <task id="LOCAL-00004" summary="Billeder der skal bruges til de forskellige under sider.">
-      <created>1607354889998</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1607354889998</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Selve koden til de forskellige ting er blevet tilføjet">
-      <created>1607354982430</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1607354982430</updated>
+      <workItem from="1607411663231" duration="28093000" />
     </task>
     <task id="LOCAL-00006" summary="skabelon til forsiden  er blevet tilføjet, hvor der skal være en masse koder på">
       <created>1607355103366</created>
@@ -423,7 +399,21 @@
       <option name="project" value="LOCAL" />
       <updated>1607551769283</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="div class id er blevet tilføjet, så jeg kan få et link">
+      <created>1607555935529</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1607555935529</updated>
+    </task>
+    <task id="LOCAL-00054" summary="margin left, color, font size, text allign, text decoration:none  er blevet tilføjet">
+      <created>1607555995349</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1607555995349</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -454,8 +444,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fontawesome cdn er blevet tilføjet" />
-    <MESSAGE value="ændret plads på de forskellige bokse" />
     <MESSAGE value="padding ændret fra 80" />
     <MESSAGE value="padding ændret fra 80 til 100px" />
     <MESSAGE value="Billede til de forskellige boxe" />
@@ -479,17 +467,19 @@
     <MESSAGE value="en ny p class er blevet tilføjet" />
     <MESSAGE value="Billede der skal bruges til om mig" />
     <MESSAGE value="Logo er blevet tilføjet" />
-    <option name="LAST_COMMIT_MESSAGE" value="Logo er blevet tilføjet" />
+    <MESSAGE value="div class id er blevet tilføjet, så jeg kan få et link" />
+    <MESSAGE value="margin left, color, font size, text allign, text decoration:none  er blevet tilføjet" />
+    <option name="LAST_COMMIT_MESSAGE" value="margin left, color, font size, text allign, text decoration:none  er blevet tilføjet" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607547077189">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1607547077189" />
-    <state x="168" y="23" width="1002" height="877" key="CommitChangelistDialog2" timestamp="1607551769145">
+    <state x="168" y="23" width="1002" height="812" key="CommitChangelistDialog2" timestamp="1607555995251">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="168" y="23" width="1002" height="877" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1607551769145" />
+    <state x="168" y="23" width="1002" height="812" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1607555995251" />
     <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1607386464471">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
