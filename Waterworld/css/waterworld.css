@@ -1,9 +1,9 @@
 @font-face {
-    src: url("../../fonts/Karlo's Video Archives Font.ttf");
+    src: url("../../fonts/HelveticaNeueLTPro-Hv.otf");
     font-family: overskrift;
 }
 @font-face {
-    src: url("../../fonts/HelveticaNowDisplay-Medium.ttf");
+    src: url("../../fonts/HelveticaNeueLTPro-Roman.otf");
     font-family: brødtekst;
 }
 .main #link2{

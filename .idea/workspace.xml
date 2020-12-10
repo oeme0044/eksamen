@@ -7,9 +7,10 @@
   <component name="ChangeListManager">
     <list default="true" id="b0b70b4d-0810-426a-983c-7f41c86cd035" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Forside/css/forside.css" beforeDir="false" afterPath="$PROJECT_DIR$/Forside/css/forside.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hopla/css/hopla.css" beforeDir="false" afterPath="$PROJECT_DIR$/Hopla/css/hopla.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hopla2/css/hopla2.css" beforeDir="false" afterPath="$PROJECT_DIR$/Hopla2/css/hopla2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Waterworld/css/waterworld.css" beforeDir="false" afterPath="$PROJECT_DIR$/Waterworld/css/waterworld.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Waterworld/waterworld.index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Waterworld/waterworld.index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/HelveticaNowDisplay-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Karlo's Video Archives Font.ttf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,14 +77,10 @@
       <workItem from="1607411663231" duration="28093000" />
       <workItem from="1607584573912" duration="252000" />
       <workItem from="1607585998815" duration="940000" />
-      <workItem from="1607588336501" duration="593000" />
-    </task>
-    <task id="LOCAL-00012" summary="Der er blevet ændret på billede størrelser, hvor jeg gik fra 50vh til 100vh">
-      <created>1607372096138</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1607372096138</updated>
+      <workItem from="1607588336501" duration="846000" />
+      <workItem from="1607594639847" duration="200000" />
+      <workItem from="1607632966149" duration="130000" />
+      <workItem from="1607633323438" duration="92000" />
     </task>
     <task id="LOCAL-00013" summary="Der er blevet ændret på billede størrelser, hvor jeg gik fra 50vh til 100vh">
       <created>1607372102697</created>
@@ -421,7 +418,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607588603146</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="link importeret, så fonten er den rigtig, når siderne linkes til filezilla">
+      <created>1607589294536</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1607589294536</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -452,7 +456,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Billede til de forskellige boxe er blevet ændret" />
     <MESSAGE value="h3 på alle fire sektioner er blevet fjernet" />
     <MESSAGE value="billeder til de 4 boxe er blevet tilføjet" />
     <MESSAGE value="Titlen på siden er blevet ændret" />
@@ -477,17 +480,18 @@
     <MESSAGE value="links til de forskellige sider er blevet tilføjet" />
     <MESSAGE value="workspace.xml" />
     <MESSAGE value="font der skal bruges" />
-    <option name="LAST_COMMIT_MESSAGE" value="font der skal bruges" />
+    <MESSAGE value="link importeret, så fonten er den rigtig, når siderne linkes til filezilla" />
+    <option name="LAST_COMMIT_MESSAGE" value="link importeret, så fonten er den rigtig, når siderne linkes til filezilla" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607547077189">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1607547077189" />
-    <state x="168" y="23" width="1002" height="812" key="CommitChangelistDialog2" timestamp="1607588603047">
+    <state x="168" y="23" width="1002" height="812" key="CommitChangelistDialog2" timestamp="1607589294377">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="168" y="23" width="1002" height="812" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1607588603047" />
+    <state x="168" y="23" width="1002" height="812" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1607589294377" />
     <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1607386464471">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
