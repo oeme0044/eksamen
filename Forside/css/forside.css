@@ -1,11 +1,4 @@
-@font-face {
-    src: url("../../fonts/Karlo's Video Archives Font.ttf");
-    font-family: overskrift;
-}
-@font-face {
-    src: url("../../fonts/HelveticaNowDisplay-Medium.ttf");
-    font-family: brødtekst;
-}
+
 
 .xop-section {
     max-width:960px;
@@ -80,8 +73,8 @@
 }
 
 .xop-info h3 {
-    font-family: "overskrift";
-    font-weight: 400;
+    font-family: Poppins;
+    font-weight: bold;
     color: #fff;
     font-size: 42px;
     margin: 0 30px;
@@ -97,7 +90,7 @@
 body {
     margin: 0;
     padding: 0;
-    font-family: "brødtekst";
+    font-family: Poppins;
 }
 
 .footer {
@@ -216,44 +209,45 @@ span.navigationSpace {
 .headerText1{
     text-align: center;
     font-size: 30px;
-    font-family: "Overskrift";
+    font-family: Poppins;
+    font-weight: bold;
 }
 
 
 .text1{
     font-size: 16px;
-    font-family: "brødtekst";
+    font-family: Poppins;
     text-align: center;
 }
 
 .text2{
     font-size: 16px;
-    font-family: "brødtekst";
+    font-family: Poppins;
 }
 
 .headerText3{
     text-align: center;
     padding-top: 20px;
     font-size: 30px;
-    font-family: "brødtekst";
+    font-family: Poppins;
 }
 
 .headerText2{
     text-align: center;
     font-size: 30px;
-    font-family: "brødtekst";
+    font-family: Poppins;
 }
 
 
 .text3{
     font-size: 16px;
-    font-family: "brødtekst";
+    font-family: Poppins;
 
 }
 
 .text4{
     font-size: 16px;
-    font-family: "brødtekst";
+    font-family: Poppins;
 }
 
 
@@ -289,13 +283,15 @@ span.navigationSpace {
     margin: 0;
     padding: 0;
     font-size: 75px;
-    font-family: "overskrift";
+    font-family: Poppins;
+    font-weight: bold;
     color: black;
     text-align: center;
 }
 .banner .tekst p{
     font-size: 35px;
-    font-family: "overskrift";
+    font-family: Poppins;
+    font-weight: bold;
     color: black;
     text-align: center;
     margin-top:0  ;

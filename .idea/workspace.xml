@@ -7,10 +7,9 @@
   <component name="ChangeListManager">
     <list default="true" id="b0b70b4d-0810-426a-983c-7f41c86cd035" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nyklan/css/nyklan.css" beforeDir="false" afterPath="$PROJECT_DIR$/Nyklan/css/nyklan.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nyklan/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Nyklan/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Waterworld/css/waterworld.css" beforeDir="false" afterPath="$PROJECT_DIR$/Waterworld/css/waterworld.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Waterworld/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Waterworld/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forside/css/forside.css" beforeDir="false" afterPath="$PROJECT_DIR$/Forside/css/forside.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hopla/css/hopla.css" beforeDir="false" afterPath="$PROJECT_DIR$/Hopla/css/hopla.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hopla2/css/hopla2.css" beforeDir="false" afterPath="$PROJECT_DIR$/Hopla2/css/hopla2.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,14 +84,7 @@
       <workItem from="1607635156355" duration="213000" />
       <workItem from="1607635409957" duration="86000" />
       <workItem from="1607635806060" duration="72000" />
-      <workItem from="1607636110345" duration="305000" />
-    </task>
-    <task id="LOCAL-00015" summary="Der er blevet ændret på billede størrelser, hvor jeg gik fra 50vh til 100vh">
-      <created>1607372122762</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1607372122762</updated>
+      <workItem from="1607636110345" duration="794000" />
     </task>
     <task id="LOCAL-00016" summary="Titlen på siden er blevet ændret">
       <created>1607372142017</created>
@@ -430,7 +422,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607633511393</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="fonts url er blevet tilføjet">
+      <created>1607636701440</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1607636701441</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -493,10 +492,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1607547077189" />
-    <state x="168" y="23" width="1002" height="812" key="CommitChangelistDialog2" timestamp="1607633511244">
+    <state x="168" y="23" width="1002" height="812" key="CommitChangelistDialog2" timestamp="1607636701278">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="168" y="23" width="1002" height="812" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1607633511244" />
+    <state x="168" y="23" width="1002" height="812" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1607636701278" />
     <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1607386464471">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
