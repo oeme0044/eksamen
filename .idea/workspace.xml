@@ -6,7 +6,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0b70b4d-0810-426a-983c-7f41c86cd035" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Forside/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Forside/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hopla2/css/hopla2.css" beforeDir="false" afterPath="$PROJECT_DIR$/Hopla2/css/hopla2.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,14 +73,7 @@
       <workItem from="1607385076365" duration="1690000" />
       <workItem from="1607411663231" duration="28093000" />
       <workItem from="1607584573912" duration="252000" />
-      <workItem from="1607585998815" duration="294000" />
-    </task>
-    <task id="LOCAL-00009" summary="position: relative er blevet tilføjet, så sm logoerne kan først ses når man scroller ned">
-      <created>1607358951814</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1607358951814</updated>
+      <workItem from="1607585998815" duration="904000" />
     </task>
     <task id="LOCAL-00010" summary="de forskellige filer er blevet tilføjet i forskellige mapper, så jeg har kontrol over mine ting">
       <created>1607370462191</created>
@@ -417,7 +411,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607586060666</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="links til de forskellige sider er blevet tilføjet">
+      <created>1607586582930</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1607586582930</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -448,7 +449,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="padding ændret fra 80 til 100px" />
     <MESSAGE value="Billede til de forskellige boxe" />
     <MESSAGE value="Billede til de forskellige boxe er blevet ændret" />
     <MESSAGE value="h3 på alle fire sektioner er blevet fjernet" />
@@ -473,17 +473,18 @@
     <MESSAGE value="margin left, color, font size, text allign, text decoration:none  er blevet tilføjet" />
     <MESSAGE value="workspace.xml" />
     <MESSAGE value="alle filer er blevet tilføjet til filezila" />
-    <option name="LAST_COMMIT_MESSAGE" value="alle filer er blevet tilføjet til filezila" />
+    <MESSAGE value="links til de forskellige sider er blevet tilføjet" />
+    <option name="LAST_COMMIT_MESSAGE" value="links til de forskellige sider er blevet tilføjet" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607547077189">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1607547077189" />
-    <state x="168" y="23" width="1002" height="812" key="CommitChangelistDialog2" timestamp="1607586060549">
+    <state x="168" y="23" width="1002" height="812" key="CommitChangelistDialog2" timestamp="1607586582767">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="168" y="23" width="1002" height="812" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1607586060549" />
+    <state x="168" y="23" width="1002" height="812" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1607586582767" />
     <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1607386464471">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
