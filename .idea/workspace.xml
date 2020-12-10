@@ -5,7 +5,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0b70b4d-0810-426a-983c-7f41c86cd035" name="Default Changelist" comment="" />
+    <list default="true" id="b0b70b4d-0810-426a-983c-7f41c86cd035" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forside/css/forside.css" beforeDir="false" afterPath="$PROJECT_DIR$/Forside/css/forside.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hopla/css/hopla.css" beforeDir="false" afterPath="$PROJECT_DIR$/Hopla/css/hopla.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hopla2/css/hopla2.css" beforeDir="false" afterPath="$PROJECT_DIR$/Hopla2/css/hopla2.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,13 +76,7 @@
       <workItem from="1607411663231" duration="28093000" />
       <workItem from="1607584573912" duration="252000" />
       <workItem from="1607585998815" duration="940000" />
-    </task>
-    <task id="LOCAL-00011" summary="de forskellige filer er blevet tilføjet i forskellige mapper, så jeg har kontrol over mine ting">
-      <created>1607370484211</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1607370484211</updated>
+      <workItem from="1607588336501" duration="593000" />
     </task>
     <task id="LOCAL-00012" summary="Der er blevet ændret på billede størrelser, hvor jeg gik fra 50vh til 100vh">
       <created>1607372096138</created>
@@ -415,7 +414,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607587306503</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="font der skal bruges">
+      <created>1607588603146</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1607588603146</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -446,7 +452,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Billede til de forskellige boxe" />
     <MESSAGE value="Billede til de forskellige boxe er blevet ændret" />
     <MESSAGE value="h3 på alle fire sektioner er blevet fjernet" />
     <MESSAGE value="billeder til de 4 boxe er blevet tilføjet" />
@@ -471,17 +476,18 @@
     <MESSAGE value="alle filer er blevet tilføjet til filezila" />
     <MESSAGE value="links til de forskellige sider er blevet tilføjet" />
     <MESSAGE value="workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="workspace.xml" />
+    <MESSAGE value="font der skal bruges" />
+    <option name="LAST_COMMIT_MESSAGE" value="font der skal bruges" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607547077189">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1607547077189" />
-    <state x="168" y="23" width="1002" height="812" key="CommitChangelistDialog2" timestamp="1607587306383">
+    <state x="168" y="23" width="1002" height="812" key="CommitChangelistDialog2" timestamp="1607588603047">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="168" y="23" width="1002" height="812" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1607587306383" />
+    <state x="168" y="23" width="1002" height="812" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1607588603047" />
     <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1607386464471">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
